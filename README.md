@@ -53,10 +53,8 @@ Users can sign up with their email address or by using Google sign in for the sy
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/eb33587e-efc5-47e8-b0fd-62d938eac880" width="220">
-  <img width="129" height="278" alt="image" src="https://github.com/user-attachments/assets/7a7104e9-88fc-46b8-aa53-73e58547a2bc" />
-  <img width="129" height="277" alt="image" src="https://github.com/user-attachments/assets/8802dc32-060c-487e-bcc6-3e0f0af1ae8f" />
-
-
+  <img src="https://github.com/user-attachments/assets/7a7104e9-88fc-46b8-aa53-73e58547a2bc" width="220">
+  <img src="https://github.com/user-attachments/assets/8802dc32-060c-487e-bcc6-3e0f0af1ae8f" width="220">
 </p>
 
 ---
@@ -68,8 +66,7 @@ Users can sign up with their email address or by using Google sign in for the sy
 This page is only accessible to the patient once he has logged in. Patients can view the list of upcoming sessions with details like the topic to be covered, date, duration, and cost.
 
 <p align="center">
-  <img width="117" height="253" alt="image" src="https://github.com/user-attachments/assets/74860fba-7163-4601-8eb5-8db4cf4e5e9b" />
-
+  <img src="https://github.com/user-attachments/assets/74860fba-7163-4601-8eb5-8db4cf4e5e9b" width="220">
   <img src="https://github.com/user-attachments/assets/3f131091-c622-4475-a75c-f2efb63f9fcd" width="220">
 </p>
 
@@ -90,8 +87,8 @@ On the meditation page, the patient can access and play relaxing background soun
 Patients can view a list of available therapists and send a request to them. The patient can use the search bar to search for a therapist by name or specialty as well. Once a therapist accepts a request, the patient can view their details, along with book a session with the therapist and start a video call.
 
 <p align="center">
-  <img width="143" height="309" alt="image" src="https://github.com/user-attachments/assets/0ffac320-927a-48ae-88f8-c6ed76a17bd1" />
-  <img width="143" height="309" alt="image" src="https://github.com/user-attachments/assets/7a46ac03-a882-433e-81ae-2b9f3f0a3db7" />
+  <img src="https://github.com/user-attachments/assets/0ffac320-927a-48ae-88f8-c6ed76a17bd1" width="220">
+  <img src="https://github.com/user-attachments/assets/7a46ac03-a882-433e-81ae-2b9f3f0a3db7" width="220">
   <img src="https://github.com/user-attachments/assets/439accb7-45ba-463d-a5e0-b3cec578c7e0" width="220">
 </p>
 
@@ -102,10 +99,9 @@ Patients can view a list of available therapists and send a request to them. The
 On the journal page, the patient can view existing journal entries, add a new entry with a title and contents, edit an entry, and delete entries.
 
 <p align="center">
-  <img width="143" height="309" alt="image" src="https://github.com/user-attachments/assets/e55e70f1-1e87-44f2-aa32-4eb9db81a9ba" />
+  <img src="https://github.com/user-attachments/assets/e55e70f1-1e87-44f2-aa32-4eb9db81a9ba" width="220">
   <img src="https://github.com/user-attachments/assets/d001739d-e655-4f37-a73c-fb8b69034465" width="220">
-  <img width="143" height="310" alt="image" src="https://github.com/user-attachments/assets/df2838fa-1249-46cc-b443-5ba1e5c0702c" />
-
+  <img src="https://github.com/user-attachments/assets/df2838fa-1249-46cc-b443-5ba1e5c0702c" width="220">
 </p>
 
 ---
@@ -125,11 +121,9 @@ On the patient’s profile page, the patients can edit their details, such as th
 The patient can access the book session page by clicking the book session on the therapist details page. On this page, the patient can select a date, time, and duration for the therapy session. The cost for the therapy session will change depending on the duration selected. The patient will have to input a session topic, then book a session. They will receive a prompt to add their phone number and another prompt to confirm payment, and after the payment has been confirmed, the session will be created.
 
 <p align="center">
-  <img width="143" height="309" alt="image" src="https://github.com/user-attachments/assets/3ac9b9fe-afa4-46a5-b830-21b09bdde64b" />
-
+  <img src="https://github.com/user-attachments/assets/3ac9b9fe-afa4-46a5-b830-21b09bdde64b" width="220">
   <img src="https://github.com/user-attachments/assets/811dc189-6fb3-4ff2-83db-9fb31d6f6a8c" width="220">
-  <img width="143" height="310" alt="image" src="https://github.com/user-attachments/assets/2ece53d0-de91-4a5a-b5e3-e95c857028a3" />
-
+  <img src="https://github.com/user-attachments/assets/2ece53d0-de91-4a5a-b5e3-e95c857028a3" width="220">
 </p>
 
 ---
@@ -149,8 +143,8 @@ Both the patient and therapist have access to the same video call page, which is
 On the sentimental analysis page, the patient can fill out a sentimental analysis form, which is based on the DASS-21 test (Lovibond & Lovibond, 1994) and used to determine the patient's depression, anxiety, and stress score.
 
 <p align="center">
-  <img width="143" height="309" alt="image" src="https://github.com/user-attachments/assets/a9959fd4-8c74-4207-a202-28c770293cab" />
-  <img width="143" height="309" alt="image" src="https://github.com/user-attachments/assets/c999a67b-8245-46ee-84c5-927093585aa8" />
+  <img src="https://github.com/user-attachments/assets/a9959fd4-8c74-4207-a202-28c770293cab" width="220">
+  <img src="https://github.com/user-attachments/assets/c999a67b-8245-46ee-84c5-927093585aa8" width="220">
   <img src="https://github.com/user-attachments/assets/66452f6e-d416-4b5b-82ba-bcf6a165486c" width="220">
 </p>
 
@@ -193,8 +187,7 @@ On the appointments page, the therapist can view their appointments and filter t
 On this page, the therapist will receive notifications such as a patient sending a request, a patient booking a therapy session, and session reminders. The therapist can delete a read notification by clicking on the bin icon or delete all the notifications and accept or reject requests.
 
 <p align="center">
-  <img width="143" height="309" alt="image" src="https://github.com/user-attachments/assets/247abe40-7843-48dc-ba8d-02bb8034fbde" />
-
+  <img src="https://github.com/user-attachments/assets/247abe40-7843-48dc-ba8d-02bb8034fbde" width="220">
   <img src="https://github.com/user-attachments/assets/7736111c-95c5-4e55-86b2-9ab75c2136d0" width="220">
 </p>
 
