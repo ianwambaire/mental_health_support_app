@@ -35,21 +35,30 @@ The following development tools and frameworks were used in building the project
 1. Security and Authentication Module
 Users can sign up with their email address or by using Google sign in for the system. This is done by providing their username, email address, password, and in the case of therapists, their area of expertise, as shown in Figure 5.1. When registering with email and password, a verification email is also sent to verify the new account. A forgot password button is also present to help users reset their password.
 
-<img width="203" height="153" alt="image" src="https://github.com/user-attachments/assets/008cf3b9-f096-4289-9176-c7631da3e4ea" />
+   <img width="128" height="278" alt="image" src="https://github.com/user-attachments/assets/eb33587e-efc5-47e8-b0fd-62d938eac880" />
+
 
 5.2.1.2	Patient’s Module
 i.	Patient’s Homepage
-This page is only accessible to the patient once he has logged in and is shown in Figure 5.2. Patients can view the list of upcoming sessions with details like the topic to be covered, date, duration, and cost. 
+This page is only accessible to the patient once he has logged in and is shown below. Patients can view the list of upcoming sessions with details like the topic to be covered, date, duration, and cost. 
+<img width="117" height="253" alt="image" src="https://github.com/user-attachments/assets/3f131091-c622-4475-a75c-f2efb63f9fcd" />
+
 ii.	Meditation Page
-On the meditation page, the patient can access and play relaxing background sound audios, for example, sea waves or a forest ambience, to help relax in case he or she is feeling stressed, depressed, or anxious, as shown in Figure 5.3.
+On the meditation page, the patient can access and play relaxing background sound audios, for example, sea waves or a forest ambience, to help relax in case he or she is feeling stressed, depressed, or anxious, as shown below.
+<img width="143" height="309" alt="image" src="https://github.com/user-attachments/assets/5fe1050b-b964-41cb-96ca-14480f717820" />
+
 
 iii.	Therapist Search and Details Page
-Patients can view a list of available therapists and send a request to them, as shown in Error! Reference source not found.. The patient can use the search bar to search for a therapist by name or specialty as well. Once a therapist accepts a request, the patient can view their details, along with book a session with the therapist and start a video call.
+Patients can view a list of available therapists and send a request to them, as shown below. The patient can use the search bar to search for a therapist by name or specialty as well. Once a therapist accepts a request, the patient can view their details, along with book a session with the therapist and start a video call.
+<img width="143" height="309" alt="image" src="https://github.com/user-attachments/assets/439accb7-45ba-463d-a5e0-b3cec578c7e0" />
+
 
 
 
 iv.	Journal Page
-On the journal page, the patient can view existing journal entries, add a new entry with a title and contents, edit an entry, and delete entries, as shown in 
+On the journal page, the patient can view existing journal entries, add a new entry with a title and contents, edit an entry, and delete entries, as shown below
+<img width="143" height="310" alt="image" src="https://github.com/user-attachments/assets/d001739d-e655-4f37-a73c-fb8b69034465" />
+
 
 
 
@@ -60,13 +69,17 @@ On the journal page, the patient can view existing journal entries, add a new en
 
 
 v.	Patient’s Profile page
-On the patient’s profile page, the patients can edit their details, such as their username, and carry out actions such as logging out or deleting the account from the profile page as shown in Figure 5.6. To edit their username, the patients will have to click on edit username. The patient can also delete their account by clicking the “Delete Account” button. The therapist’s profile page is also identical to the patient's one.
+On the patient’s profile page, the patients can edit their details, such as their username, and carry out actions such as logging out or deleting the account from the profile page as shown below. To edit their username, the patients will have to click on edit username. The patient can also delete their account by clicking the “Delete Account” button. The therapist’s profile page is also identical to the patient's one.
+<img width="293" height="309" alt="image" src="https://github.com/user-attachments/assets/ceadc90e-cf10-45d9-9074-b3aa138f373f" />
+
 
 
 
 
 vi.	Book Session Page
-The patient can access the book session page by clicking the book session on the therapist details page, as shown in Figure 5.4. On this page, the patient can select a date, time, and duration for the therapy session, as shown in Figure 5.7. The cost for the therapy session will change depending on the duration selected. The patient will have to input a session topic, then book a session. They will receive a prompt to add their phone number and another prompt to confirm payment, and after the payment has been confirmed, the session will be created.
+The patient can access the book session page by clicking the book session on the therapist details page, as shown in Figure 5.4. On this page, the patient can select a date, time, and duration for the therapy session, as shown Below. The cost for the therapy session will change depending on the duration selected. The patient will have to input a session topic, then book a session. They will receive a prompt to add their phone number and another prompt to confirm payment, and after the payment has been confirmed, the session will be created.
+<img width="143" height="310" alt="image" src="https://github.com/user-attachments/assets/811dc189-6fb3-4ff2-83db-9fb31d6f6a8c" />
+
 
 
 
@@ -74,12 +87,16 @@ The patient can access the book session page by clicking the book session on the
 
 
 vii.	Video Call Page
-Both the patient and therapist have access to the same video call page, which is shown below in Figure 5.8: Video call page.
+Both the patient and therapist have access to the same video call page, which is shown below:
+<img width="143" height="309" alt="image" src="https://github.com/user-attachments/assets/c67450b1-f5e5-418f-92a5-14fe24850549" />
+
 
 
 
 viii.	Sentimental Analysis Form and Report
-On the sentimental analysis page, the patient can fill out a sentimental analysis form, which is based on the DASS-21 test (Lovibond & Lovibond, 1994) and used to determine the patient's depression, anxiety, and stress score. As shown in Figure 5.9
+On the sentimental analysis page, the patient can fill out a sentimental analysis form, which is based on the DASS-21 test (Lovibond & Lovibond, 1994) and used to determine the patient's depression, anxiety, and stress score. As shown below
+<img width="143" height="309" alt="image" src="https://github.com/user-attachments/assets/66452f6e-d416-4b5b-82ba-bcf6a165486c" />
+
 
 
 
