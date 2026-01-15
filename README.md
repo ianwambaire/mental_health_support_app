@@ -57,7 +57,7 @@ Users can sign up with their email address or by using Google sign in for the sy
 
 ---
 
-## 5.2.1.2 Patient’s Module
+## 2. Patient’s Module
 
 ### i. Patient’s Homepage
 
@@ -139,11 +139,15 @@ On the sentimental analysis page, the patient can fill out a sentimental analysi
 
 ---
 
-## 5.2.1.3 Therapist’s Module
+## 3. Therapist’s Module
 
 ### i. Therapist’s Homepage
 
 This page can be accessed by registered therapists after logging in to the platform. The therapist can view the upcoming therapy sessions and access notifications. The therapist can view the session details like topic, cost, duration, time, and date.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/10c5d63e-f05d-44cc-b62b-c0c7f811287e" width="260">
+</p>
 
 ---
 
@@ -151,11 +155,19 @@ This page can be accessed by registered therapists after logging in to the platf
 
 The therapist’s patients page contains a list of patients assigned to the therapist. The therapist must accept a patient's request for a patient’s details to be on this page. To view more information on the patient, the therapist can click on the patient’s card to be directed to the patient's details page.
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c63a0c64-e65d-43ac-aac8-cd0281385bd8" width="260">
+</p>
+
 ---
 
 ### iii. Appointments Page
 
 On the appointments page, the therapist can view their appointments and filter them by date, either today, this week, or this month.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/96d0433b-e6f8-47e4-9d9d-000d9a862d3a" width="220">
+</p>
 
 ---
 
@@ -163,8 +175,16 @@ On the appointments page, the therapist can view their appointments and filter t
 
 On this page, the therapist will receive notifications such as a patient sending a request, a patient booking a therapy session, and session reminders. The therapist can delete a read notification by clicking on the bin icon or delete all the notifications and accept or reject requests.
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/7736111c-95c5-4e55-86b2-9ab75c2136d0" width="220">
+</p>
+
 ---
 
 ### v. Therapist Sessions Page
 
 On the therapist sessions page, the therapist can access all the sessions, including past and upcoming sessions. This page can be accessed when the therapist clicks on the “View All Sessions” page on the therapist’s homepage. The therapist can filter the sessions to view past sessions only, upcoming sessions, or all sessions. The therapist can edit a session’s details, such as the date, time, and duration as well.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/5333cb57-6031-44bb-8c24-795bfca6a614" width="300">
+</p>
